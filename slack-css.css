@@ -4,5 +4,5 @@
 .p-message_pane { background: #2F3136; }
 .messages_header { color: #F5D4FF; }
 .c-virtual_list__item, .c-virtual_list__sticky_container { background: #2F3136; }
-.c-message { background: #3d3f44; }
 .c-message__body { color: #a7a7a7; }
+.c-message--focus .c-message__broadcast_preamble_outer, .c-message--hover .c-message__broadcast_preamble .c-message--focus .c-message__broadcast_preamble { color: #949494; }

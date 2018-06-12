@@ -1,1 +1,8 @@
-.c-message_list__day_divider__line { border-top-color: #363636; }
+.c-message_list__day_divider { background: #2F3136; }
+.c-message_list__day_divider__line { border-top-color: #F5D4FF; }
+.c-message_list__day_divider__label__pill { background: #F5D4FF; }
+.p-message_pane { background: #2F3136; }
+.messages_header { color: #F5D4FF; }
+.c-virtual_list__item, .c-virtual_list__sticky_container { background: #2F3136; }
+.c-message--hover { background: #3d3f44; }
+.c-message__body { color: #a7a7a7; }

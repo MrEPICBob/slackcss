@@ -5,4 +5,4 @@
 .messages_header { color: #F5D4FF; }
 .c-virtual_list__item, .c-virtual_list__sticky_container { background: #2F3136; }
 .c-message__body { color: #a7a7a7; }
-.c-message:hover { color: #949494; }
+.c-message--hover { background: red; }

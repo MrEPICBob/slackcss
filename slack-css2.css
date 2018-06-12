@@ -9,4 +9,4 @@
 .c-message--light { background: #2F3136; }
 #footer_msgs { background: #2f3136; }
 .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before { z-index: 0; }
-.channel-header { background: #1a1a1a; }
+.channel-header { background: #1a1a1a; height: 120%;}

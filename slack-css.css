@@ -6,3 +6,4 @@
 .c-virtual_list__item, .c-virtual_list__sticky_container { background: #2F3136; }
 .c-message__body { color: #a7a7a7; }
 .c-message--hover { background: red; }
+.c-message--light { background: red; }

@@ -5,7 +5,8 @@
 .messages_header { color: #F5D4FF; }
 .c-virtual_list__item, .c-virtual_list__sticky_container { background: #2F3136; }
 .c-message__body { color: #a7a7a7; }
-.c-message--hover { background: red; }
-.c-message--light { background: red; }
+.c-message--hover { background: 2F3136; }
+.c-message--light { background: 2F3136; }
 #footer_msgs { background: #2f3136 }
 .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before { z-index: 0; }
+.channel-header { background: #1a1a1a }
